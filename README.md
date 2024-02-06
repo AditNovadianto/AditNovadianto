@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **future project**
 
-- 🧑‍🎓 I’m currently a student at **SMA Plus Pembangunan Jaya**
+- 🧑‍🎓 I’m currently a student at **Bakrie University**
 
 - 📫 How to reach me **aditya.novadianto@gmail.com**
 
