@@ -58,13 +58,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AditNovadianto/AditNovadianto/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ### ✨ Quote
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
